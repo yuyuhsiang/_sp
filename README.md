@@ -8,3 +8,6 @@
 教師 | [陳鍾誠](https://www.nqu.edu.tw/educsie/index.php?act=blog&code=list&ids=4)
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程教材 | https://github.com/ccc113b/cpu2os
+
+# hw2
+power2為原始power2.c，power2_Recursion為遞迴n次方
