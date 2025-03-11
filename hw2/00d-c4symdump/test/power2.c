@@ -9,7 +9,6 @@ int power2(int n) {
    }
    return r;
 }
-
 int main() {
    printf("power2(3)=%d\n", power2(3));
 }
