@@ -132,7 +132,6 @@ void IF() {
 }
 
 // DOWHILE = do STMT while (E);
-//fuck
 ///////////////////////////////////////////////////////////////////////////////
 // STMT = WHILE | BLOCK | IF | DOWHILE | ASSIGN
 void STMT() {
