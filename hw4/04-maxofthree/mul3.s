@@ -12,8 +12,8 @@
         
         .text
 mul3:
-        mov       %rdi, %rax
-        imulq     %rsi, %rax
-        imulq     %rdx, %rax
-        ret
+        mov       %rdi, %rax  #rax = a;
+        imulq     %rsi, %rax  #rax *= b;
+        imulq     %rdx, %rax  #rax *= c;
+        ret                   #mul num save as rax;
                    
