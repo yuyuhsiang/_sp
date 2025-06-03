@@ -1,5 +1,5 @@
 # hw3
-//修改於c4.c 36、315~325
+修改於 c4.c row 36、315~325
 
 ```
 user@DESKTOP-G45H2SD:/mnt/d/Users/Yu^2/Desktop/金大資工/大四下/系統程式/sp/_sp/hw3/00e-c4for$ ./c4 -s test/dowhile.c
