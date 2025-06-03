@@ -1,4 +1,4 @@
-# Midterm \
+# Midterm
 subject:有 thread 的爬蟲 \
 main code:[GUI.py](https://github.com/yuyuhsiang/_sp/blob/main/Midterm/GUI.py) \
 主要使用工具:threading, tkinter, bs4, requests \
