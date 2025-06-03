@@ -1,10 +1,16 @@
 ```
 gcc a.c -o a
+```
+```
 gcc -S a.c
+```
+```
 gcc -c a.c
+```
+將該目的檔反組譯
+```
 objdump -d a.o
 ```
-
 ```
 a.o:     file format elf64-x86-64
 
@@ -43,11 +49,10 @@ Disassembly of section .text:
   5c:   5d                      pop    %rbp
   5d:   c3                      ret
 ```
-
+印出該目的檔的表頭
 ```
 objdump -h a.o
 ```
-
 ```
 a.o:     file format elf64-x86-64
 
