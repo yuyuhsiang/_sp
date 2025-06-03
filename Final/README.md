@@ -5,7 +5,7 @@
 [HW2](https://github.com/yuyuhsiang/_sp/tree/main/hw2)  
 +程式碼是自己寫的，也有問章貴他們  
 [HW3](https://github.com/yuyuhsiang/_sp/tree/main/hw3)  
-+程式碼是自己寫的，也有問章貴他們
++程式碼是自己寫的，也有問章貴他們  
 [HW4](https://github.com/yuyuhsiang/_sp/tree/main/hw4)  
 +AI輔助看Assembly組合語言  
 [HW5](https://github.com/yuyuhsiang/_sp/tree/main/hw5)  
