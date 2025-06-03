@@ -7,5 +7,5 @@ user@DESKTOP-G45H2SD:/mnt/d/Users/Yu^2/Desktop/金大資工/大四下/系統程�
 mul3(3,2,5)=30
 ```
 
-mul3.s標註 15~18row
+mul3.s標註 15~18row \
 mult3接收三個參數（分別透過 %rdi, %rsi, %rdx 傳遞），回傳它們的乘積。結果儲存在 %rax(回傳值暫存器)
