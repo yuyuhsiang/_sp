@@ -11,4 +11,4 @@
 [HW5](https://github.com/yuyuhsiang/_sp/tree/main/hw5)  
 +照著章貴markdown流程做  
 [Midterm](https://github.com/yuyuhsiang/_sp/tree/main/Midterm)  
-+AI輔助做GUI介面，爬蟲部分參考現代程式語言，加入多線程實做
++有AI輔助，爬蟲部分參考現代程式語言內容，加入多線程實做，有重新再講一次程式碼的部分還請老師看一下期中markd裡的yt連結
